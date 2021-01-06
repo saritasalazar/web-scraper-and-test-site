@@ -1,0 +1,17 @@
+{
+  "nav": true,
+  "a": true,
+  "h1": true,
+  "h2": true,
+  "h3": true,
+  "p": true,
+  "img": true,
+  "li": true,
+  "ul": true,
+  "backgroundColor": "rgba(0, 0, 0, 0)",
+  "margin": "8px",
+  "border": "0px none rgb(245, 245, 245)",
+  "fontFamily": "Verdana, Geneva, Tahoma, sans-serif",
+  "color": "rgb(245, 245, 245)",
+  "fontSize": "60px"
+}
